@@ -1,5 +1,3 @@
-#include "TRandom.h"
-
 Int_t task_4()
 {
     Int_t N = 1000000;
